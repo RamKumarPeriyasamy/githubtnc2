@@ -4,3 +4,16 @@ jenkins tutorials
 https://devopscube.com/jenkins-2-tutorials-getting-started-guide/
 jenkins architecture explanation
 https://devopscube.com/jenkins-architecture-explained/
+
+note:
+Introduction to CI/CD  (Important)
+Git and GitHub  (Important)
+Execute Selenium Tests from Jenkins
+Selenium Grid
+Run Selenium Grid Tests
+Execute Selenium Tests on BrowserStack
+SonarQube (Important)
+Execute Tests on Docker
+Groovy
+Scripting Fundamentals
+Create a Jenkins file (To setup the Jenkins pipeline job)
